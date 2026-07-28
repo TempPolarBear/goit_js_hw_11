@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/go_it_hw_11/",
+    "build": "vite build --base=/goit_js_hw_11/",
     "preview": "vite preview"
   },
   "devDependencies": {

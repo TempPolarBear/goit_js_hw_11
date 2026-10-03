@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Поиск изображений через Pixabay API
-- Рендеринг галереи результатов
-- Лайтбокс, индикатор загрузки и сообщения об ошибках
+- Image search through the Pixabay API
+- Rendering a results gallery
+- Lightbox, loading indicator, and error messages
 
 ## Technologies
 
